@@ -1,5 +1,3 @@
-# React-Fretboard
+# React Webpack Babel Sass Boilerplate
 
-This is a simple component for rendering a few different scales on the neck of the Guitar.
-
-####  [Live demo](http://kodemonki.com/react/fretboard/)
+react 16.3.2, webpack 4.6.0, babel 6.26.0
